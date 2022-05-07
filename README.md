@@ -1,6 +1,6 @@
 # Eve
 
-Tiny osu! keyboard
+Tiny keyboard thing. Unsure of it's own purpose (yet)
 
 ## License
 
